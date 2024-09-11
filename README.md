@@ -4,4 +4,4 @@
 
 #  Ekran görüntüsü
 
-# ![](resim.gif)# Chat-GPT-Kopya
+# ![](resim.gif)
