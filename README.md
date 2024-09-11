@@ -1,6 +1,6 @@
 # Chat-GPT-Kopya
 
-# Yapay zaka Chat-gpt baz alınarak oluşturulmuştur.
+# Yapay zeka Chat-gpt baz alınarak oluşturulmuştur.
 
 #  Ekran görüntüsü
 
