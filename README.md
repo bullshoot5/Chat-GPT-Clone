@@ -1,6 +1,6 @@
 # Chat-GPT-Kopya
 
-# Yapay zakalı Chat gpt görüşmesi
+# Yapay zaka Chat gpt görüşmesi
 
 #  Ekran görüntüsü
 
